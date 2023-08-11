@@ -1,9 +1,0 @@
-name: HelloWorld
-main: online.unhack.Main
-version: '1.0-SNAPSHOT'
-api-version: 1.19
-authors: [ oCerial ]
-description: "Hello, world!"
-commands:
-  helloworld:
-    description: "Sends \"hello world\"!"
