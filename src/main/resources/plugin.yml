@@ -1,4 +1,4 @@
-name: HelloWorld
+name: '${project.name}'
 main: online.unhack.Main
 version: '${project.version}'
 api-version: 1.19
